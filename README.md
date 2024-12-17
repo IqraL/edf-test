@@ -1,2 +1,4 @@
 # edf-test
-edf take home test
+npm i 
+npm run test
+npm run start
